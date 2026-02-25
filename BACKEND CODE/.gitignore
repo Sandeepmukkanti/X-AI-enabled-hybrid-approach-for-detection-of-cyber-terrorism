@@ -1,0 +1,7 @@
+*.bin
+*.h5
+*.pkl
+*.csv
+*.ipynb
+__pycache__/
+venv/
